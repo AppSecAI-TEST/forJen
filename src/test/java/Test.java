@@ -1,6 +1,4 @@
-package wps;
-
-import static org.junit.Assert.*;
+import wps.Cal;
 
 public class Test {
 
